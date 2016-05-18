@@ -14,7 +14,7 @@
  *= require_self
  */
  
- $light: rgba(100, 150, 250, .75);
+ $light: #bdc3c7;
  $dark: #eeefef;
 
 * {
@@ -26,8 +26,8 @@ html {
 
 body {
  	height: 100%;
-  background: #eeeeff;
-  font-family: 'Merriweather', serif;
+  	background: #34495e;
+  	font-family: 'Abel', serif;
 }
 
 .clearfix:before,
